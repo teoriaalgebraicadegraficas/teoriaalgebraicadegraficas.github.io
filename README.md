@@ -1,0 +1,1 @@
+# teoriaalgebraicadegraficas.github.io

@@ -1,1 +1,1 @@
-# teoriaalgebraicadegraficas.github.io
+# Teoria algebraica de graficas
